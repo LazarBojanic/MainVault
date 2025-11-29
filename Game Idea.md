@@ -1,0 +1,4 @@
+- You are a casual astronaut chilling in a space station.
+- You are programming, interacting with the ship, the computer, listening to music, listening to Earth radio.
+- You have some friends back on Earth, but are all alone in space. 
+- Objective is still unknown, maybe something related to earth, where you're trying to manage information from various sources to uncover a mystery or something. Maybe yo u are communicating with someone on another space station and over time you're objective is to meet (very similar to Firewatch or Oblivion, will need to rethink)
